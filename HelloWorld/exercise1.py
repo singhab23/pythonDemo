@@ -1,3 +1,7 @@
+import os
+
+os.system('cls||clear') # this line clears the screen 'cls' = windows 'clear' = unix
+
 weight = int(input("Weight: "))
 metric = input("(L)bs or (K)g: ")
 
