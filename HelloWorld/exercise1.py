@@ -7,3 +7,5 @@ if metric.upper() == "K" :
     print(f"You are {weight * 2.2} pounds")
 else:
     print("Please enter correct metric value.")
+
+    #tried the git upload
